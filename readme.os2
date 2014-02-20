@@ -1,0 +1,24 @@
+This is the OS/2 port of VPICDisAsm 1.3, built with GCC 4.5.2.
+
+This program is a Microchip PIC firmware disassembler.
+
+For more informations on how to use it, please consult the
+documentation in the README file.
+
+Notice that I simply rebuilt it using a modified makefile
+(makefile.os2, included in this package). I don't know if it
+will work or it will trash your entire system, so be warned
+you're using it at your own risk. I don't, however, think
+that it will make harm to your OS/2 system.
+
+I decided to port this program to make life easier to those of
+us who like to play with digital electronics, PICs, AVRs and
+other little integrated circuits. If you find it useful, please
+drop me a note and you will make me happy :-)
+
+And don't forget making a donation to Paul Smedley and giving him
+feedback on how good it is his build environment :)
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
